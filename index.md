@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Datenschutz und Support:
+Kontaktdaten des Anbieters: Zied Mcharek. zied.mcharek@icloud.com. \
+Beschreibung der Datenarten, die von der App erhoben werden (Zugriffsrechte): Position-Daten. \
+Erklärung des Zwecks für die diese Daten erhoben werden: Um zu prüfen ob der Nutzen innerhalb des erzeugen Radius sich bewegt. \
+Speicherdauer: Die Daten werden nicht gespeichert. \
+Information über Übermittlung an Dritte und deren Zweck: Die Daten werden nicht weitergegeben. \
+Datum der Erstellung: 10.01.2021.
 
-You can use the [editor on GitHub](https://github.com/startmicro/Radius/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/startmicro/Radius/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Wir benötigen den Zugriff auf den Standort Ihres Gerätes. \
+Bei einer Anfrage erheben wir Ihren aktuellen Standort über GPS, um Ihnen den 15-KM-Radius zu erzeugen und um zu prüfen, \
+ob Sie noch innerhalb des Radius sich bewegen. \
+Die Daten werden nicht gespeichert und nicht an Dritte weitergegeben 
