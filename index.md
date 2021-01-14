@@ -1,12 +1,9 @@
-## Datenschutz und Support:
-Kontaktdaten des Anbieters: Zied Mcharek. zied.mcharek@icloud.com. \
-Beschreibung der Datenarten, die von der App erhoben werden (Zugriffsrechte): Position-Daten. \
-Erklärung des Zwecks für die diese Daten erhoben werden: Um zu prüfen ob der Nutzen innerhalb des erzeugen Radius sich bewegt. \
-Speicherdauer: Die Daten werden nicht gespeichert. \
-Information über Übermittlung an Dritte und deren Zweck: Die Daten werden nicht weitergegeben. \
-Datum der Erstellung: 10.01.2021.
-
-Wir benötigen den Zugriff auf den Standort Ihres Gerätes. \
-Bei einer Anfrage erheben wir Ihren aktuellen Standort über GPS, um Ihnen den 15-KM-Radius zu erzeugen und um zu prüfen, \
-ob Sie noch innerhalb des Radius sich bewegen. \
-Die Daten werden nicht gespeichert und nicht an Dritte weitergegeben 
+## Privacy Policy
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at MapRadius unless otherwise defined in this Privacy Policy.
+This app requires your location to be used as intended, however I do not store or log this location data. I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+I do not knowingly collect personally identifiable information.
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+This policy is effective as of 2021-01-01.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at zied.mcharek@icloud.com
